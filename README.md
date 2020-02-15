@@ -1,1 +1,1 @@
-# Info_Student.github.io
+# info_student.github.io
